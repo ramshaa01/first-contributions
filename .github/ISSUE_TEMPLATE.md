@@ -18,5 +18,3 @@
 *   Submit a pull request and add this in comments - `Addresses #<put issue number here>`
 *   Ask for reviews in comments section of pull request.
 *   Celebrate your contribution to this project. 🎉
-
-ok
